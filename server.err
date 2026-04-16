@@ -1,6 +1,0 @@
-E:\code6\毕设\app\ui\gradio_app.py:458: UserWarning: The parameters have been moved from the Blocks constructor to the launch() method in Gradio 6.0: css. Please pass these parameters to launch() instead.
-  with gr.Blocks(css=CSS, title='AI情感疗愈平台原型') as demo:
-INFO:     Started server process [4580]
-INFO:     Waiting for application startup.
-INFO:     Application startup complete.
-INFO:     Uvicorn running on http://0.0.0.0:7870 (Press CTRL+C to quit)
